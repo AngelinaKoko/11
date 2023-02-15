@@ -1,0 +1,25 @@
+{
+  "name": "bonus",
+  "version": "1.0.0",
+  "description": "tests for bonus",
+  "main": "bonus.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelinaKoko/11.git"
+  },
+  "author": "AngekinaK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelinaKoko/11/issues"
+  },
+  "homepage": "https://github.com/AngelinaKoko/11#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.4.0"
+  }
+}
